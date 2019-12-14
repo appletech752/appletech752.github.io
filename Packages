@@ -1,0 +1,13 @@
+Package: com.appletech752.pangu.axe7
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: AppleTech752 <theredothis@gmail.com>
+Filename: /nightshadeuntether.deb
+Size: 107276
+MD5sum: 3d86ef34bda9287e6081dda95b7593dd
+SHA1: 4267988b1bfdc4578dced131667ccca8eb6eb986
+SHA256: db7e412fd629802e26c8aec481cdca9cfe0a3bc33c7a4cc243351245da5cb172
+Section: System
+Description: n1ghtshade untethered system package
+Author: Apple Tech 752 <theredothis@gmail.com>
+Name: n1ghtshade untether
